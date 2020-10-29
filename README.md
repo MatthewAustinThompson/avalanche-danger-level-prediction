@@ -1,8 +1,8 @@
 # FinalProjectCS287
 
-Mesonet data
+* Mesonet data
 
-Imperial units
+* Imperial units
 
 AWND = avg wind at summit
 PGTM = no clue
