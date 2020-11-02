@@ -28,9 +28,11 @@ We are going to instead build a multi class classification model to predict next
 
 November 1 – Check-In #2: 
 * Completed data cleaning process
+
 November 15 – Check-In #3: 
 * Completed data exploration
 * Completed model implementation
+
 November 22 – Check-In #4: 
 * Completed data and model analysis
 * Completed visualizing results
