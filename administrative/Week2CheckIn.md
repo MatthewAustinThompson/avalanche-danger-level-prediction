@@ -12,8 +12,8 @@ Matthew Thompson and Lowell Deschenes
 
 ## 1b)  Major activities/milestones accomplished this week (note: this may or may not actually be what was stated in 1a -- that's okay, as long as you're making progress and learning!).
 
-* Lowell Completed the data cleaning process
-* Lowell Merged the snow and weather data into one dataframe
+* Lowell mompleted the data cleaning process
+* Lowell merged the snow and weather data into one dataframe
 * Matthew scraped the avalanche occurrence data
 * Matthew created useful visualizations of our data/began data exploration
 
