@@ -12,8 +12,8 @@ Matthew Thompson and Lowell Deschenes
 
 ## 1b)  Major activities/milestones accomplished this week (note: this may or may not actually be what was stated in 1a -- that's okay, as long as you're making progress and learning!).
 
-* Lowell Completed the data cleaning process
-* Lowell Merged the snow and weather data into one dataframe
+* Lowell completed the data cleaning process
+* Lowell merged the snow and weather data into one dataframe
 * Matthew scraped the avalanche occurrence data
 * Matthew created useful visualizations of our data/began data exploration
 
@@ -32,9 +32,11 @@ We are going to instead build a multi class classification model to predict next
 
 November 1 – Check-In #2:
 * Completed data cleaning process
+
 November 15 – Check-In #3:
 * Completed data exploration
 * Completed model implementation
+
 November 22 – Check-In #4:
 * Completed data and model analysis
 * Completed visualizing results
