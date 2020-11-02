@@ -1,3 +1,7 @@
+Matthew Thompson and Lowell Deschenes
+
+# Week #2 Check In
+
 ## 1a)  Major activities/milestones planned for this week (in the timeline that you had going into the start of the week).
 
 * Complete data cleaning process
