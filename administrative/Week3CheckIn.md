@@ -15,9 +15,9 @@ Matthew Thompson and Lowell Deschenes
 * Lowell completed the data exploration
 * Lowell and Matthew worked together to complete the preliminary feature selection
 * Lowell implemented out-of-the-box models
-  * Decision Trees: Accuracy =
-  * Random Forest: Accuracy =
-  * Extra Trees: Accuracy =
+  * Decision Trees: Accuracy = 51%
+  * Random Forest: Accuracy = 66%
+  * Extra Trees: Accuracy = 66%
 * Matthew implemented out-of-the-box models
   * Logistic Regression: Accuracy = 54%
   * SVM: Accuracy = 38%
@@ -29,6 +29,7 @@ Matthew Thompson and Lowell Deschenes
 
 * An obvious open challenge is our currently low accuracy scores, however, these will improve with feature engineering and model optimization
 * Dealing with null-values has been tricky so far because there are widespread gaps in our snow data that has forced us to not include some features that would likely be helpful to the model
+* We have a skewed amount of instances for each avalanche danger category so we must find a solution around this bias.
 
 
 ## 2b)  Major changes to research plan (if any, based on what you've learned or accomplished thus far, and the unexpected challenges you've faced this week)
