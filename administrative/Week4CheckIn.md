@@ -30,7 +30,7 @@ Matthew Thompson and Lowell Deschenes
 ## 2a)  Open challenges and questions (including what -- if anything -- are the challenges that Ethan or I can help provide feedback or pointers on?)
 
 * An obvious open challenge is our currently low accuracy scores, however, these will improve with feature engineering and model optimization.
-* The next day avalanche danger for the last day in each season is inaccurate because the model thinks it is referring to the first day of the next season. Are current idea for a solution to this is just to drop the rows from the last day of each season, because the next day avalanche danger for the second to last days will be accurate.
+* The next day avalanche danger for the last day in each season is inaccurate because the model thinks it is referring to the first day of the next season. Our current idea for a solution to this is just to drop the rows from the last day of each season, because the next day avalanche danger for the second to last days will be accurate.
 
 
 ## 2b)  Major changes to research plan (if any, based on what you've learned or accomplished thus far, and the unexpected challenges you've faced this week)
