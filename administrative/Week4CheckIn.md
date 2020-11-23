@@ -45,8 +45,8 @@ November 15 – Check-In #4:
 * Completed basic model implementation
 
 November 22 – Check-In #5:
-* Completed basic feature engineering (UPDATED)
-* Completed basic model implementation (UPDATED)
+* Completed optimized feature engineering (UPDATED)
+* Completed optimized model implementation (UPDATED)
 * Completed data and model analysis
 
 November 29 - Project Due Date:
